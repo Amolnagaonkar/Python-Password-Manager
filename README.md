@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./image/logo.png" alt="Blind Stick Front View" width="350"><br>
+  <img src="./images/logo.png" alt="Project Logo" width="350"><br>
   <em>Project Logo</em>
 </p>
 # 🔐 MyPass – Password Manager (Python + Tkinter)
@@ -13,7 +13,7 @@ It allows users to generate strong passwords, securely store credentials locally
 
 ### 🖥️ Application Interface
 <p align="center">
-  <img src=".image/interface.png" alt="Blind Stick Front View" width="350"><br>
+  <img src=".images/interface.png" alt="Application Interface" width="350"><br>
   <em>Application Interface</em>
 </p> 
 ---
