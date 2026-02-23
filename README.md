@@ -14,6 +14,7 @@ It allows users to generate strong passwords, securely store credentials locally
 <p align="center">
   <img src="./images/interface.png" alt="Application Interface" width="350"><br>
 </p> 
+
 ---
 
 ## 🚀 Features
