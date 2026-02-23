@@ -1,15 +1,15 @@
 
-![[logo.png]]
+![Project Logo](image/logo.png)
 # 🔐 MyPass – Password Manager (Python + Tkinter)
 
 MyPass is a simple and lightweight desktop password manager built using Python and Tkinter.  
 It allows users to generate strong passwords, securely store credentials locally, and quickly retrieve saved login details through a clean graphical interface.
 
 ---
-## 
-![[passwordmanager.png]]
-### 🖥️ Application Interface
+##
 
+### 🖥️ Application Interface
+![Project Interface](image/passwordmanager.png) 
 ---
 
 ## 🚀 Features
