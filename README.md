@@ -54,11 +54,12 @@ It allows users to generate strong passwords, securely store credentials locally
 ## 📂 Project Structure
 
 ```
-MyPass/  
+Python-Password-Manager/ 
+|── images/
+|   |── interface.png
+|   |── logo.png
 │── main.py  
-│── password.json   (auto-created after first save)  
-│── logo.png  
-│── passwordmanager.png  
+│── password.json   (auto-created after first save)   
 │── README.md
 ```
 
