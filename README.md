@@ -1,5 +1,8 @@
 
-![Project Logo](image/logo.png)
+<p align="center">
+  <img src="./image/logo.png" alt="Blind Stick Front View" width="350"><br>
+  <em>Project Logo</em>
+</p>
 # 🔐 MyPass – Password Manager (Python + Tkinter)
 
 MyPass is a simple and lightweight desktop password manager built using Python and Tkinter.  
@@ -9,7 +12,10 @@ It allows users to generate strong passwords, securely store credentials locally
 ##
 
 ### 🖥️ Application Interface
-![Project Interface](image/passwordmanager.png) 
+<p align="center">
+  <img src=".image/interface.png" alt="Blind Stick Front View" width="350"><br>
+  <em>Application Interface</em>
+</p> 
 ---
 
 ## 🚀 Features
