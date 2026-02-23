@@ -105,7 +105,7 @@ MyPass/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yourusername/mypass-password-manager.git  
+git clone https://github.com/Amolnagaonkar/Python-Password-Manager  
 cd mypass-password-manager
 
 ```
